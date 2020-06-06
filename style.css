@@ -8,6 +8,7 @@ body{
 
  font-family:'Montserrat',
 sans-serif;
+ word-wrap:normal;
 }
 
 #header{
