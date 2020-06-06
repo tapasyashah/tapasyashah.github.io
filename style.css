@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(http://fonts.googleapis.com/css?family=Indie Flower:400,700);
+
 
 
 body{
@@ -106,6 +106,7 @@ a:hover {
  width:50px;
  height:50px;
  vertical-align:middle;
+ margin-bottom:5px;
 }
 
 .post-author img, .About-author img {
@@ -116,6 +117,7 @@ a:hover {
 
 .post-author span {
  margin-left:16px;
+ font-weight:light;
 }
 
 .post-date { 
