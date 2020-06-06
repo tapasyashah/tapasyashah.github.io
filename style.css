@@ -42,17 +42,16 @@ sans-serif;
 #header-nav{
  display:block;
  float:right;
- margin-top:0;s
+ margin-top:0;
 }
 
 #header-nav li {
  display:inline;
- padding-left:20px;
 }
 
 .container, .footer-container {
  max-width:1000px;
- margin:0 auto;
+ margin:0 ;
 }
 
 
