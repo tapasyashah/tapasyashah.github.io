@@ -42,7 +42,7 @@ sans-serif;
 }
 
 #header-nav{
- display:block;
+ display:table;
  float:right;
  margin-top:0;
  margin-right:10px;
@@ -50,7 +50,7 @@ sans-serif;
 }
 
 #header-nav li {
- display:inline;
+ display:table-cell;
 }
 
 .container, .footer-container {
