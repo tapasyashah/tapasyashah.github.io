@@ -51,7 +51,8 @@ sans-serif;
 
 #header-nav li {
  display:inline;
- width:400px
+ width:400px;
+ display:flex;
 }
 
 .container, .footer-container {
